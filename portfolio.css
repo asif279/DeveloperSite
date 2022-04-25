@@ -1,5 +1,6 @@
 .Pic-Description{
     display: flex;
+    margin-bottom: 2opx;
 }
 .Pic-Description{
     background-image: url(top-banner.png);
@@ -33,9 +34,22 @@
 }
 .Description{
     font-size: 25px;
+    padding: 10px;
+    margin: 10px;
 }
 .asif-pic{
-    width: 80%;
+    width: 70%;
     border-radius: 5px;
+    
+}
+#padding{
+    padding-right: 6px;
+}
+#as{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 5px;
+    margin: 8px;
     
 }
