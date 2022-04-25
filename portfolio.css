@@ -58,6 +58,13 @@
     margin: 5%;
    
 }
+li:hover{
+    color: black;
+    background-color: aquamarine;
+}
+.link-nav:hover{
+    color: black;
+}
 .Description{
     font-size: 25px;
     padding: 10px;
